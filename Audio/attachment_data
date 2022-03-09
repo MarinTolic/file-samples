@@ -1,0 +1,11 @@
+#file_name = audio_sample_mp3
+#expected_mime_type = audio/mpeg
+#expected_type = audio
+
+#file_name = audio_sample_ogg
+#expected_mime_type = audio/x-vorbis+ogg
+#expected_type = audio
+
+#file_name = audio_sample_wav
+#expected_mime_type = audio/x-wav
+#expected_type = audio

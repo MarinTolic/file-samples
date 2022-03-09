@@ -1,0 +1,19 @@
+#file_name = image_sample_bmp
+#expected_mime_type = image/bmp
+#expected_type = image
+
+#file_name = image_sample_gif
+#expected_mime_type = image/gif
+#expected_type = image
+
+#file_name = image_sample_jpg
+#expected_mime_type = image/jpeg
+#expected_type = image
+
+#file_name = image_sample_png
+#expected_mime_type = image/png
+#expected_type = image
+
+#file_name = image_sample_webp
+#expected_mime_type = image/webp
+#expected_type = image

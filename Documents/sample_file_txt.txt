@@ -1,0 +1,4 @@
+﻿A Sample File
+
+
+This is a sample file and does not contain any useful information.

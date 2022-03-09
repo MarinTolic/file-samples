@@ -1,0 +1,19 @@
+#file_name = sample_file_docx
+#expected_mime_type = application/vnd.openxmlformats-officedocument.wordprocessingml.document
+#expected_type = application
+
+#file_name = sample_file_epub
+#expected_mime_type = application/epub+zip
+#expected_type = application
+
+#file_name = sample_file_pdf
+#expected_mime_type = application/pdf
+#expected_type = application
+
+#file_name = sample_file_rtf
+#expected_mime_type = application/rtf
+#expected_type = application
+
+#file_name = sample_file_txt
+#expected_mime_type = text/plain
+#expected_type = text
