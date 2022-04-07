@@ -1,7 +1,7 @@
 #file_name = compression_sample_tar_xz
 #expected_mime_type = application/x-xz-compressed-tar
-#expected_type = application
+#expected_type = file
 
 #file_name = compression_sample_zip
 #expected_mime_type = application/zip
-#expected_type = application
+#expected_type = file
