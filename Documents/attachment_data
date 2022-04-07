@@ -16,4 +16,4 @@
 
 #file_name = document_sample_txt
 #expected_mime_type = text/plain
-#expected_type = text
+#expected_type = file
